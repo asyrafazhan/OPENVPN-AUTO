@@ -74,7 +74,7 @@ group nogroup
 proto tcp
 port 222
 dev tun222
-status openvpn-status-1194.log
+status openvpn-status-222.log
 EOF
 
 # Generate Client Config
